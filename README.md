@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre Mim:
 Olá sou o Carlos<br><br>Sou entusiasta de redes, infraestrutura e automação. Estou baseando meus estudos em IaC realizando alguns laboratórios com Terraform, Ansible, Docker e Nginx
 
 
