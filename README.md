@@ -44,8 +44,6 @@ Olá sou o Carlos<br><br>Sou entusiasta de redes, infraestrutura e automação. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/CarlinPL/CarlinPL/snake-output/snake.svg" alt="Snake animation" />
-
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=CarlinPL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
