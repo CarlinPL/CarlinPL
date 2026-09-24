@@ -53,4 +53,8 @@ Olá sou o Carlos<br><br>Sou entusiasta de redes, infraestrutura e automação. 
 ---
 [![](https://komarev.com/ghpvc/?username=CarlinPL&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/CarlinPL/CarlinPL/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
